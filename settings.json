@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "CoparBopar",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "coparistuff",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "serverfuckinggay.aternos.me",
+    "port": 26615,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Copar is tuff!",
+        "Eppar is tuff!",
+        "Ik ga lou verkr8ten!",
+        "gooning rn"
       ]
     },
     "chat-log": true,
