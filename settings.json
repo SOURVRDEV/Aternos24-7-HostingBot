@@ -80,11 +80,11 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1504099698535825408/y6Cx4w27pvqwxZSXF0l1hteJLNEQfJ2Jl7_QOrJWr-Sx8yAcBTqAafBxRmY8zd-6IorR",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
