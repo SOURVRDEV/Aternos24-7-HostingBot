@@ -82,7 +82,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1504168655104245980/ZPIkTh-Dp-c-zXs45LINjIj61_e7XFlmmOL-RM9NQkkO2UezWCtPtsfe73jhGZeRt0jo",
+    "webhookUrl": "https://discord.com/api/webhooks/1507813757559242893/hChY747ooIT8wjvZ42DiduQlYUp2SImpVEvLaGe4ucsP3Hi949SCOt4UlE8wlydmO62M",
     "events": {
       "connect": true,
       "disconnect": true,
