@@ -1,13 +1,13 @@
 {
   "name": "CoparBopar",
   "bot-account": {
-    "username": "coparistuff",
+    "username": "goonerangers",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "serverfuckinggay.aternos.me",
-    "port": 26615,
+    "ip": "GoonerangersSMP.aternos.me",
+    "port": 38896,
     "version": "",
     "try-creative": false
   },
